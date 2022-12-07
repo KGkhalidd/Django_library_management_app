@@ -19,3 +19,14 @@ python -m venv ENV
 ```sh
 pip install -r requirements.txt
 ```
+### Running Server 
+
+1. Migrate the Database 
+```sh
+manage.py migrate
+```
+
+2. Run Server 
+```sh
+manage.py runserver
+```
