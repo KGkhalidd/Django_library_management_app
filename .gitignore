@@ -1,0 +1,11 @@
+# ignore Enviornment files 
+\env 
+\sus
+
+.vscode
+
+
+
+# ignore Databases 
+
+db.*
